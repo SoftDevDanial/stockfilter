@@ -5,24 +5,24 @@ A python script to show if the current date candlestick of a ticker is bullish o
 
 All rules/filter/conditions is according to Adam Khoo's course.
 
-##Candlestick pattern:-
-*PinBar50
-*PinBar150
-*Tweezers50
-*Tweezers150
-*oneSolCrow50(one white soldier, one white crow)
-*oneSolCrow150(one white soldier, one white crow)
-*morEveStar50
-*morEveStar150
-*Engulfing50
-*Engulfing150
+## Candlestick pattern:-
+* PinBar50
+* PinBar150
+* Tweezers50
+* Tweezers150
+* oneSolCrow50(one white soldier, one white crow)
+* oneSolCrow150(one white soldier, one white crow)
+* morEveStar50
+* morEveStar150
+* Engulfing50
+* Engulfing150
 
-##Rules:-
+## Rules:-
 **downtrend**
-*dip50
-*dip100
+* dip50
+* dip100
 
 **uptrend**
-*dip50
-*dip100
+* dip50
+* dip100
 
