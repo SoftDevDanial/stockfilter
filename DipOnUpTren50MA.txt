@@ -1,0 +1,11 @@
+####### DIP ON UPTREND 50 ########
+SMA50 > SMA150 and EMA20 > EMA40 and close > SMA50 Within 4 bars and low < SMA50 within 4 bars
+
+####### DIP ON DOWNTREND 50 ########
+SMA50 < SMA150 and EMA20 < EMA40 and close < SMA50 Within 4 bars and high < SMA50 within 4 bars
+
+####### DIP ON UPTREND 100 ########
+SMA50 > SMA150 and EMA20 > EMA40 and close > SMA100 Within 4 bars and low < SMA100 within 4 bars
+
+####### DIP ON DOWNTREND 100 ########
+SMA50 < SMA150 and EMA20 < EMA40 and close < SMA100 Within 4 bars and high < SMA100 within 4 bars
