@@ -28,4 +28,5 @@ All rules/filter/conditions is according to Adam Khoo's course.
 
 
 _**Contact me if you want to sponsor the development of this project**_
+
 softdev.Danial2020@gmail.com
